@@ -1,7 +1,7 @@
 # description: Where to export to
 # type: string
 # required: true
-dest: /Users/davide.fornelli/Documents/repos/github/davidefornelli/dendron-vault-personal.wiki
+dest: notion
 
 # description: should body be included
 # type: boolean
@@ -18,3 +18,13 @@ dest: /Users/davide.fornelli/Documents/repos/github/davidefornelli/dendron-vault
 # description: include or exclude certain vaults
 # type: object
 # vaults: TODO
+
+# description: Api key for Notion
+# type: string
+# required: true
+apiKey: secret_vZeKOgxnUYH4WM0kNYtEIJZazgtC3vP0yFZA4qiu8Me
+
+# description: vault to export from
+# type: string
+# required: true
+vault: Personal

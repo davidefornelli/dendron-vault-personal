@@ -2,7 +2,7 @@
 id: bk7ay31zebnuh25fp5io6qm
 title: Root
 desc: ''
-updated: 1688071627191
+updated: 1688074040728
 created: 1658484627842
 ---
 # Welcome to Dendron
@@ -18,5 +18,3 @@ This section contains useful links to related resources.
 - [Home Page](https://wiki.dendron.so/)
 - [Github](https://link.dendron.so/6b24)
 - [Developer Docs](https://docs.dendron.so/)
- 
-![[root.]]
